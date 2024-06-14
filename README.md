@@ -47,7 +47,7 @@ https://hub.docker.com/r/paprikkafox/aspia-server
 
 This container is designed for rapid deployment of an open source remote access server (aspia.org)
 
-[![#AspiaLogo](https://www.aspia.org/lib/tpl/bootstrap3/images/logo.png "#AspiaLogo")](https://www.aspia.org/ "#AspiaLogo")
+[![#AspiaLogo](https://www.aspia.org/images/logo.png "#AspiaLogo")](https://www.aspia.org/ "#AspiaLogo")
 
 ### Docker installation:
 

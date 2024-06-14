@@ -5,7 +5,7 @@ https://hub.docker.com/r/paprikkafox/aspia-server
 
 Данный контейнер предназначен для быстрого развертывания сервера удаленного доступа с открытым исходным кодом (aspia.org)
 
-[![#AspiaLogo](https://www.aspia.org/lib/tpl/bootstrap3/images/logo.png "#AspiaLogo")](https://www.aspia.org/ "#AspiaLogo")
+[![#AspiaLogo](https://www.aspia.org/images/logo.png "#AspiaLogo")](https://www.aspia.org/ "#AspiaLogo")
 
 ### Установка Docker:
 
